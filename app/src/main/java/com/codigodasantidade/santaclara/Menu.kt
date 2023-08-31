@@ -11,7 +11,7 @@ class Menu : AppCompatActivity() {
 
         val historia = findViewById<Button>(R.id.historia)
 
-        historia.text = "Eu sou sabido"
+        historia.text = "Historia Legal"
 
         val milagres = findViewById<Button>(R.id.milagres)
 
