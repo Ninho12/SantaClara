@@ -16,7 +16,7 @@ class Menu : AppCompatActivity() {
         val milagres = findViewById<Button>(R.id.milagres)
 
         milagres.setOnClickListener {
-            historia.text = "Historia 2"
+            historia.text = "Historia 3"
         }
     }
 }
